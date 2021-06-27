@@ -14,7 +14,7 @@ https://documenter.getpostman.com/view/15037808/TzeTJV3n
 * Delete Bootcamp (Secured with authentication)
 * Fetch all bootcamps
 * Fetch single bootcamp using id
-* Fetch bootcamps with advanced query.
+* Fetch bootcamps with advanced query (select, sort, page, limit).
 
 ### Courses
 * Create a course
@@ -22,7 +22,7 @@ https://documenter.getpostman.com/view/15037808/TzeTJV3n
 * Delete the course (only admin and publisher roles)
 * Fetch all courses
 * Fetch single course
-* Fetch courses with advanced query option
+* Fetch courses with advanced query (select, sort, page, limit)
 
 ### Authentication
 * Register user
