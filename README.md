@@ -1,4 +1,4 @@
-# Devcamper-Api using Node.js
+# Devcamper-Api using Node.js and Express.js
 
 ```
 API Documentation can be found below:
