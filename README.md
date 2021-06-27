@@ -33,3 +33,10 @@ https://devcamper-api-v1.herokuapp.com/api/v1/bootcamps
 * Change password
 * Forgot Password / Reset password (With reset token send over email)
 * logout
+
+### Other features
+* CORS
+* XSS prevention
+* Rate Limiting
+* NoSQL injection prevention
+* HPP prevention
